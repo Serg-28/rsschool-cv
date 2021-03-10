@@ -1,0 +1,42 @@
+.page {
+    max-width: 1024px;
+    margin: 0 auto;
+    font: normal 16px "Helvetica Neue", sans-serif;;
+    text-align: justify;
+    line-height: 1.5;
+    color: black;
+    background-color: #ffffff;
+}
+.ava{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+a {
+    color: #889911;
+    text-decoration: none;
+}
+a:hover {
+    color: blue;
+}
+.contacts-list {
+    padding-inline-start: 34px;
+}
+.function {
+    background-color: antiquewhite;
+}
+.education-item {
+    list-style: none;
+}
+main {
+    margin-bottom: 20px;
+}
+.footer-block {
+    padding-right: 30px;
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+}
